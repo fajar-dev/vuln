@@ -1,5 +1,5 @@
 
-#contoh blog untuk penetration test
+#contoh blog sebagai korban untuk penetration test
 
 # cara penggunaan :
 1. upload data sql ke phpmyadmin
